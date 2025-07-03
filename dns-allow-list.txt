@@ -1,0 +1,5 @@
+! Title: DNS Allow List
+! Description: This list holds any domains I am allowing into my DNS
+! Syntax: AdBlock
+!
+||duckdns.org^
